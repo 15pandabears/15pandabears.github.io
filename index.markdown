@@ -1,7 +1,5 @@
 ---
-layout: home
-list_title: Latest Posts
 title: ''
 ---
 
-Welcome!
+## Welcome to my blog! Consider [subscribing](https://github.com/15pandabears/subscribe)
