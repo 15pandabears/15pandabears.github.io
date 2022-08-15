@@ -5,3 +5,16 @@
 		color: purple;
 	}
 }
+
+.post-list > li {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    
+    div:first-child {
+        flex: 4 0 200px;
+    }
+    .featured-image {
+        flex: 1 0 200px;
+        margin-bottom: 0;
+    }
+}
