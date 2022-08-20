@@ -51,4 +51,3 @@ comments:
   # an error will be thrown.
   requiredFields: ["name", "message"]
   
-ZZ
