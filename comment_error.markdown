@@ -4,6 +4,4 @@ list_title: Recent Posts
 title: ''
 ---
 
-{% include comment-success.html %}
-
-
+{% include comment-error.html %}

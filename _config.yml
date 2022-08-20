@@ -38,6 +38,8 @@ staticman_url: https://blog-15pandabears.herokuapp.com/v3/entry/github/15pandabe
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-target-blank
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
