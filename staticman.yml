@@ -4,7 +4,7 @@ comments:
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
-  allowedFields: ["name", "message"]
+  allowedFields: ["name", "message", "parent_id"]
 
   # (*) REQUIRED
   #
@@ -40,7 +40,7 @@ comments:
   moderation: false
 
   # When allowedOrigins is defined, only requests sent from one of the listed domains will be accepted.
-  # allowedOrigins: ["localhost", "15pandabears.github.io"]
+  allowedOrigins: ["localhost", "15pandabears.github.io"]
 
   # (*) REQUIRED
   #
@@ -51,4 +51,4 @@ comments:
   # an error will be thrown.
   requiredFields: ["name", "message"]
   
-
+ZZ
